@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Ice-biu!
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);欢迎来到我的世界(*๓´╰╯`๓)&center=true&size=27"> </a> </h1>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);欢迎来到我的世界(*๓´╰╯`๓)&center=true&size=27"> </a> 
 
 <!-- profile logo 个人资料徽标 -->
   <div align="center">
@@ -7,8 +7,14 @@
     <!-- visitor statistics logo 访客数统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=Ice-biu&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
+</h1>
+
+
 
 #  🙋 Hello
+
+<div align="center">
+  
 ![](https://github-readme-stats.vercel.app/api?username=Ice-biu&theme=omni)
 
 <!--  skill badge 技能徽章 -->
@@ -25,7 +31,9 @@
 
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
+<div align="center"> <img src="https://metrics.lecoq.io/Ice-biu?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
+</div>
 <!--
 **Ice-biu/Ice-biu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);欢迎来到我的世界!&center=true&size=27"> </a> </h1>
