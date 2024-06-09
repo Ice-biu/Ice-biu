@@ -3,7 +3,7 @@
 
 <!-- profile logo 个人资料徽标 -->
   <div align="center">
-    <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="https://space.bilibili.com/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <!-- visitor statistics logo 访客数统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=Ice-biu&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
